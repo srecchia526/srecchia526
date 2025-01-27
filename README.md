@@ -3,7 +3,8 @@
 🌱 I’m currently learning website coding and publishing with git
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=srecchia526&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=B84925&icon_color=E97424&text_color=F2F2F2&bg_color=0,111111,333333 "my Github Stats")
-<!--
+
+⚡ Fun fact: I enjoy leathercrafting and I am a firearm safety, operation, and maintenance trainer.
 <!--
 **srecchia526/srecchia526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
